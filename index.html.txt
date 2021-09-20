@@ -5,7 +5,9 @@
 <title>Page Title</title>
 </head>
 <body>
+
 <p> This is another paragraph to find and resolve conflict  </p>
+<p>Paragraph added<p>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 
