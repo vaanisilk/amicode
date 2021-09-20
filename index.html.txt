@@ -13,7 +13,7 @@ in the source code,
 but the browser
 ignores it.
 </p>
-
+FEATURE CHANGES
 <p>
 This paragraph
 contains         a lot of spaces
@@ -28,6 +28,9 @@ contains a lot
 ignores it.
 </p>
 
+
+FEATURE CHANGES
+FEATURE CHANGES
 
 </body>
 </html>
